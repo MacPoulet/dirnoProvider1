@@ -1,0 +1,18 @@
+[general]
+name=Dirno Script Provider
+description= Ce plugin permet de manager le serveur
+category=Management
+version=2.0
+qgisMinimumVersion=2.0
+
+author=Jean-Daniel Lomenède
+email=jean-daniel.lomenede@developpement-durable.gouv.fr
+
+tags=processing, data management
+
+homepage=
+tracker=
+repository=
+
+experimental=False
+deprecated=False
